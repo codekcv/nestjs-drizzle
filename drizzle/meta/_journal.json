@@ -8,6 +8,27 @@
       "when": 1763723868230,
       "tag": "0000_mushy_power_man",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1763724217278,
+      "tag": "0001_slippery_night_nurse",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1763733200769,
+      "tag": "0002_square_husk",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1763740012906,
+      "tag": "0003_bouncy_ser_duncan",
+      "breakpoints": true
     }
   ]
 }
